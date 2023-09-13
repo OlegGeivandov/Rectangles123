@@ -9,6 +9,7 @@ public class Main {
         x= sc.nextInt();
 
         int sumArea = 0;
+
         for (int i = 0; i<x; i++){
             Rectangle r = new Rectangle();
             System.out.println(r);
